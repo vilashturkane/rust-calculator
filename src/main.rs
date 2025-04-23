@@ -1,5 +1,5 @@
 fn main() {
     println!("---------Rust Calculator-------");
-    println!("mishal bro  add karo");
+    println!("mishal tum addtion ka code likho");
 }
 
